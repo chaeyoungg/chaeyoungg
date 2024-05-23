@@ -1,5 +1,5 @@
 ## 안녕하세요 프론트엔드 개발자 류채영입니다 👋
-<img src="img/profile.png">
+<img src="img/profile.png" style="width:200px">
 
 ---
 
@@ -7,7 +7,7 @@
 
 | 이미지 | 프로젝트명 | 설명 |
 |--|--|--|
-| <img src="/img/trip_with_me.gif" /> | Trip with me | 여행 동행 서비스 |
+| <img src="/img/trip_with_me.gif" style="width:300px" /> | Trip with me | 여행 동행 서비스 |
 
 ---
 
