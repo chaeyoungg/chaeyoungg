@@ -7,7 +7,8 @@
 
 | 이미지 | 프로젝트명 | 설명 |
 |--|--|--|
-| <img src="/img/trip_with_me.gif" style="width:300px" /> | Trip with me | 여행 동행 서비스 |
+| <img src="/img/trip_with_me.gif" style="width:300px" /> | Trip with me | 여행 동행 서비스 <br> - [배포사이트(바로가기)](https://trip-withme.netlify.app/) |
+| <img src="/img/모바일메인.gif" style="width:300px" /> | 면학소 | 실시간 교육 플랫폼 <br> - [배포사이트(바로가기)](https://myeonhakso.vercel.app/) |
 
 ---
 
